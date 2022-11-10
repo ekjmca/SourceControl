@@ -6,5 +6,6 @@ public class Main {
 
         System.out.println("Wotcher!");
         System.out.println("Yer a Wizard 'Arry");
+        System.out.println("Iiii'm a what??!");
     }
 }
